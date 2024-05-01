@@ -1,12 +1,12 @@
 # Data Normalization and Entity-Relationship Diagramming
 
 ## Courses
-|course_id   |course_name                       |
+|course_id   |  course_name                       |
 -------------------------------------------------
-|1           |Data normalization                |
-|2           |Single table queries              |
-|3           |Python and pandas                 |
-|4           |Spreadsheet aggregate functions   |
+|1           |  Data normalization                |
+|2           |  Single table queries              |
+|3           |  Python and pandas                 |
+|4           |  Spreadsheet aggregate functions   |
 
 ## Professors
 professor_id    professor_name      professor_email
